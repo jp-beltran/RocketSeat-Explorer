@@ -9,19 +9,19 @@ Programa exclusivo e gratuito, promovido pela RocketSeat para ensino de tecnolog
 
 
 
->Trilha Discover
+>🍏Trilha Discover
 
-## Projeto
+##🔥 Projeto
 O DevLinks é um agregador de links para usar como cartão de visitas online
 
-## Tecnologias
+## 💻 Tecnologias
 - HTML
 - CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## Aprendizado Adquirido
+##🤯 Aprendizado Adquirido
 Durante o desenvolvimento deste projeto, adquiri conhecimento e pratiquei os seguintes conceitos e técnicas:
 - Estruturação de Páginas Web: Aprendi a utilizar tags HTML para criar uma estrutura básica para a página web, incluindo cabeçalho, corpo e rodapé.
 - Estilização com CSS: Pratiquei a aplicação de estilos CSS para formatar o layout da página, incluindo cores, fontes, margens e paddings.
