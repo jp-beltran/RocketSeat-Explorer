@@ -7,10 +7,9 @@ Programa exclusivo e gratuito, promovido pela RocketSeat para ensino de tecnolog
 
 ![preview](./.github/Capa.png)
 
+
+
 >Trilha Discover
-
-<h1> Projeto construido na Next Level Week da Rocketseat </h1>
-
 
 ## Projeto
 O DevLinks é um agregador de links para usar como cartão de visitas online
