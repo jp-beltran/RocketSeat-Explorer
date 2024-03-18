@@ -10,9 +10,12 @@ Programa exclusivo e gratuito, promovido pela RocketSeat para ensino de tecnolog
 
 
 > 🍏Trilha Discover
+> [Clique aqui para acessar](https://jp-beltran.github.io/RocketSeat-Explorer/)
 
 ## 🔥Projeto
 O DevLinks é um agregador de links para usar como cartão de visitas online
+
+
 
 ## 💻Tecnologias
 - HTML
